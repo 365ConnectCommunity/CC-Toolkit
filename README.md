@@ -1,6 +1,6 @@
 # CC-Toolkit
 
-![CC-Toolkit Logo](link-to-your-logo.png)
+![CC-Toolkit Logo](cc-toolkit-logo.jpg)
 
 ## Overview
 
