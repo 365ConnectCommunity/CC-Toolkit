@@ -72,4 +72,4 @@ The CC-Toolkit library includes a collection of mathematical functions generated
 To use CC-Toolkit in your JavaScript project, simply include the library in your HTML file:
 
 ```html
-<script src="lib/cc-toolkit.js"></script>
+<script src="cc-toolkit.js"></script>
